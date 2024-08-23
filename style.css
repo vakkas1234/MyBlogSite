@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+}
+p{
+    color: white;
+}
+h2{
+    color: white
+}
+div{
+    color: white;
+    width: 530px;
+    height: 560px;
+   border: 8px solid white;
+}
+ #img1{
+    width: 527px;
+    height: 350px;
+    
+
+ }
