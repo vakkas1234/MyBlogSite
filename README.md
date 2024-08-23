@@ -1,2 +1,2 @@
 # MyBlogSite
-This website contains my blog informations
+This website contains my blog knowledge
